@@ -9,8 +9,8 @@ I'm a **Front-End Developer in the Making** with a passion for JavaScript and we
 - Exploring **AI and automation** in tech.  
 
 ### 🛠️ Tech Skills  
-- **Languages**: JavaScript (Beginner)  
-- **Tools & Frameworks**: HTML, CSS, Git, React (learning)  
+- **Languages**: HTML, CSS (Strong), JavaScript (Beginner)  
+- **Tools & Frameworks**: Git, React (learning)  
 - **Other Interests**: Music production, fitness, PC building, AI  
 
 ### 📚 What I'm Learning  
